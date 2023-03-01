@@ -27,6 +27,6 @@ class Config(object):
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
-    DEF_WATER_MARK_FILE = ""
+    DEF_WATER_MARK_FILE = "https://t.me/ocmovie"
     #Admin id is stored in 
     LAZY_DEVELOPER = set(int(x) for x in os.environ.get("LAZY_ADMIN", "1760280598").split())
