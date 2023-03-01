@@ -53,8 +53,8 @@ async def start(bot, update):
                         InlineKeyboardButton("✪ Channel ✪", url="https://t.me/ocmovie"),
                         InlineKeyboardButton("⚡️ U𝖕𝖉𝖆𝖙e", url="https://t.me/NgaHtutmm"),
                     ],
-                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://instagram.com/LazyDeveloper__")],
-                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/LazyDeveloperr")],
+                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://t.me/ocmovie")],
+                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/NgaHtutmm")],
                 ]
             ),
             reply_to_message_id=update.message_id
